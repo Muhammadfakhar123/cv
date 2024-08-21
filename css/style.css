@@ -1,0 +1,15 @@
+body{
+    background-color:powderblue;
+}
+hr{
+    background-color: gray;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    color: RED;
+}
+h3{
+    color:darkbluem;
+}
